@@ -1,0 +1,1 @@
+# vscode-node-js-extension-pack
